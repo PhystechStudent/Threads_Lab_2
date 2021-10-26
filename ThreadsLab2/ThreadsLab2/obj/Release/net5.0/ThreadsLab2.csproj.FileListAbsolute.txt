@@ -1,0 +1,16 @@
+C:\Users\Alexandr\RiderProjects\ThreadsLab2\ThreadsLab2\bin\Release\net5.0\ThreadsLab2.exe
+C:\Users\Alexandr\RiderProjects\ThreadsLab2\ThreadsLab2\bin\Release\net5.0\ThreadsLab2.deps.json
+C:\Users\Alexandr\RiderProjects\ThreadsLab2\ThreadsLab2\bin\Release\net5.0\ThreadsLab2.runtimeconfig.json
+C:\Users\Alexandr\RiderProjects\ThreadsLab2\ThreadsLab2\bin\Release\net5.0\ThreadsLab2.runtimeconfig.dev.json
+C:\Users\Alexandr\RiderProjects\ThreadsLab2\ThreadsLab2\bin\Release\net5.0\ThreadsLab2.dll
+C:\Users\Alexandr\RiderProjects\ThreadsLab2\ThreadsLab2\bin\Release\net5.0\ref\ThreadsLab2.dll
+C:\Users\Alexandr\RiderProjects\ThreadsLab2\ThreadsLab2\bin\Release\net5.0\ThreadsLab2.pdb
+C:\Users\Alexandr\RiderProjects\ThreadsLab2\ThreadsLab2\obj\Release\net5.0\ThreadsLab2.csproj.AssemblyReference.cache
+C:\Users\Alexandr\RiderProjects\ThreadsLab2\ThreadsLab2\obj\Release\net5.0\ThreadsLab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandr\RiderProjects\ThreadsLab2\ThreadsLab2\obj\Release\net5.0\ThreadsLab2.AssemblyInfoInputs.cache
+C:\Users\Alexandr\RiderProjects\ThreadsLab2\ThreadsLab2\obj\Release\net5.0\ThreadsLab2.AssemblyInfo.cs
+C:\Users\Alexandr\RiderProjects\ThreadsLab2\ThreadsLab2\obj\Release\net5.0\ThreadsLab2.csproj.CoreCompileInputs.cache
+C:\Users\Alexandr\RiderProjects\ThreadsLab2\ThreadsLab2\obj\Release\net5.0\ThreadsLab2.dll
+C:\Users\Alexandr\RiderProjects\ThreadsLab2\ThreadsLab2\obj\Release\net5.0\ref\ThreadsLab2.dll
+C:\Users\Alexandr\RiderProjects\ThreadsLab2\ThreadsLab2\obj\Release\net5.0\ThreadsLab2.pdb
+C:\Users\Alexandr\RiderProjects\ThreadsLab2\ThreadsLab2\obj\Release\net5.0\ThreadsLab2.genruntimeconfig.cache
